@@ -1,7 +1,7 @@
 module Twitter
   module Bootstrap
     module Rails
-      VERSION = "2.2.8"
+      VERSION = "rainforest-dev"
     end
   end
 end
